@@ -1,0 +1,3 @@
+# 🎢 Movement
+
+Foodshare is part of the foodsharing movement. Currently, foodsharing is considered a niche market, comprising different-sized companies. The largest companies, such as Olioex and Foodsharing, have large inventories of services that are offered internationally. The smallest companies share the food locally online either from retailers, shops, restaurants or bakeries. This movement is currently suffering from regulatory problems as consumers and businesses are wasting more food. However, industry revenues increased by $14.2 million in the 2nd quarter of 2021. This means there is a potential for growth as the regulations change.

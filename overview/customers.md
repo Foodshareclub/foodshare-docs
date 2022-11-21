@@ -1,0 +1,3 @@
+# 🧑🤝🧑 Customers
+
+As European and American practice shows, users of the service can be people of any profession and interest. In line with Foodshare's philosophy, we use the project's social resource for advertising and marketing to attract volunteer heroes through social media groups where surplus food is shared. All volunteers are allowed to keep 20% of their food. This, the programme creates a unifying mix of heroes. Some work as IT people, lawyers, and accountants by day and volunteer food waste rescue heroes by night. The programme is very appealing because it is a direct food waste activity, which is great. Plus, the volunteers get to meet a lot of people in their community, so it's a lot of fun and encourages positive social activity.
