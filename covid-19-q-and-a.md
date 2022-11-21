@@ -1,6 +1,6 @@
 # COVID 19 Q\&A
 
-UPDATED: _Friday 7st December 2021_
+UPDATED: _Friday 21st November 2022_
 
 The following advice applies to the UK. If FOODSHARE-ing outside the UK, please ensure you follow local Government guidance at all times.
 
@@ -14,14 +14,10 @@ If you are an FOODSHARE volunteer, please, **Click here** for specific guidance
 
 FOODSHARE is a registered food business and we work with our Environmental Health Primary Authority to receive ‘assured advice’ on our rules for sharing on FOODSHARE. We have reconfirmed with our Primary Authority and our Food Safety Advisor, that sharing on FOODSHARE not only can continue but also plays an important part in providing an essential service to the community, especially in the face of mounting food insecurity. Also, it has been confirmed by the [UK Gov](https://www.gov.uk/government/publications/covid-19-guidance-for-food-businesses/guidance-for-food-businesses-on-coronavirus-covid-19) and[ **FDA**](http://www.fda.gov/food/food-safety-during-emergencies/food-safety-and-coronavirus-disease-2019-covid-19) that it's very unlikely that coronavirus can be spread through things like packages or food.
 
-
-
 **What can I add?**
 
 * The usual restrictions apply to food that can be shared on FOODSHARE -[ check here](https://foodshare.club/faq/)
 * All food can be shared on FOODSHARE. For example toiletries, clothing, electrical items.
-
-
 
 **How can I share safely?**
 
