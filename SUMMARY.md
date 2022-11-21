@@ -8,3 +8,4 @@
 * [Food safety](food-safety.md)
 * [App not working](app-not-working.md)
 * [Borrow](borrow.md)
+* [TERMS AND CONDITIONS (1)](terms-and-conditions-1.md)
