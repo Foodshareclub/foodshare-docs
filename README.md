@@ -5,7 +5,9 @@ layout: landing
 
 # Terms and conditons
 
-_Last updated: November 21st 2022_\
+**TERMS AND CONDITIONS**\
+\*\*\*\*\
+\*\*\*\*_Last updated: November 21st 2022_\
 \_\_\
 \_\_**Please note, FOODSHARE’s use of “Buyer”, “Seller”, “Sale” and “Purchase” below are for ease of reference only. With the exception of Items offered for Sale on the Made feature, ALL Items offered or requested on the FREE section of the App must be FREE OF CHARGE.**
 
