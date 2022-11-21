@@ -1,5 +1,6 @@
 ---
 description: FOODSHARE CLUB LIMITED COMPANY
+layout: landing
 ---
 
 # Terms and conditons
