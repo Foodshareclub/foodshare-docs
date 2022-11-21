@@ -1,6 +1,6 @@
 # COVID 19 Q\&A
 
-UPDATED: _Friday 21st November 2022_
+UPDATED: _Friday 7st December 2021_
 
 The following advice applies to the UK. If FOODSHARE-ing outside the UK, please ensure you follow local Government guidance at all times.
 
