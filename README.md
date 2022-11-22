@@ -1,6 +1,6 @@
 # 👋 Welcome to Foodshare
 
-<figure><img src="https://firebasestorage.googleapis.com/v0/b/foodshare-71b57.appspot.com/o/Assets%2F27bb8dcf-b3dc-44ee-92fc-3a1e9031a5de.webp?alt=media&#x26;token=3e81a511-6e0d-456a-a150-4382acdf4efd" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/3538807f-2fc6-41cc-87ef-555e64ee5ab7.png" alt=""><figcaption></figcaption></figure>
 
 ## **Product**
 
