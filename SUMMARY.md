@@ -4,9 +4,9 @@
 
 ## Overview
 
+* [🎢 Movement](overview/movement.md)
 * [💡 What we do](overview/what-we-do.md)
 * [🧑🤝🧑 Customers](overview/customers.md)
-* [🎢 Movement](overview/movement.md)
 * [🛫 Future of the Company](overview/future-of-the-company.md)
 * [🏛 Regulations](overview/regulations.md)
 * [✨ Our Features](overview/our-features.md)

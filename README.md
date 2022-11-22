@@ -2,10 +2,6 @@
 
 <figure><img src=".gitbook/assets/3538807f-2fc6-41cc-87ef-555e64ee5ab7.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-**Tip:** our product docs aren't just a reference of all our features! use them to encourage folks to perform certain actions and discover the value in our product.
-{% endhint %}
-
 ## **Product**
 
 The Foodshare project is a simple and easy-to-use cross-platform mobile and web platform. The app allows users to post about food that could potentially go to waste and facilitates other users to pick it up for free. The scope of this extends to expiring, before-day and by-day food from local shops, even excess vegetables or baked goods from the local bakeries. \
