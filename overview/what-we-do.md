@@ -1,7 +1,11 @@
 # 💡 What we do
 
-## Foodsharing economy
+## Product
 
-Sustainable development values and concepts of responsible consumption, sharing, waste-free production and recycling are becoming more and more popular among organisations and consumers. Though food-sharing has not yet become as popular as car-sharing, it aims to solve important social food policy problems of decreasing food waste and redistributing food to support those in need. Basing on research literature, and publications in business media the paper presents the results of content analysis of materials from food-sharing platforms and websites in the world. Authors compare foreign best practices, identify the main food-sharing models: exchange with monetary compensation, gratuitous transfer (charity), and food-sharing within the neighbouring community Problems and unresolved food-sharing issues are explained, such as lack of information about available options of food-sharing, low trust of consumers to the quality of food being shared and perception of using charitable food stock as something shameful. The paper maps possible directions for the development of food-sharing considering the existing international experience.
+The Foodshare project is a simple and easy-to-use cross-platform mobile and web platform. The app allows users to post about food that could potentially go to waste and facilitates other users to pick it up for free. The scope of this extends to expiring, before-day and by-day food from local shops, even excess vegetables or baked goods from the local bakeries. \
+\
+Non-food items can also be posted on Foodshare and an option has been added to post items that can be borrowed - it could be a book, a drill or something useful for you. To make a post about a product you want to share, just open the app, add a picture, a description, and when and where the product will be available for pick-up! \
+\
+Likewise, if you're looking for something you want, you can post it in the Wanted tab; even looking for housing classifieds is welcome. To organise to view a listing you like, all you have to do is look at the available list next to you, select then make a request and appointment via private messaging, and bingo, it’s that simple to help someone.
 
 {% embed url="https://www.youtube.com/watch?v=K3i_1CWa1gk" %}
